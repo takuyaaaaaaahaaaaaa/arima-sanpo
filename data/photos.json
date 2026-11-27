@@ -110,17 +110,6 @@
       "modified": true
     }
   ],
-  "arima-170104": [
-    {
-      "src": "assets/mitsumori-senbei.jpg",
-      "source": "https://commons.wikimedia.org/wiki/File:Mitsumori_Tansan_Senbei.jpg",
-      "author": "Shack",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "alt": "三津森本舖の元祖炭酸せんべい",
-      "modified": true
-    }
-  ],
   "arima-170120": [
     {
       "src": "assets/onsenji.jpg",
@@ -140,6 +129,17 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "alt": "有馬温泉の念仏寺",
+      "modified": true
+    }
+  ],
+  "arima-shop-1427": [
+    {
+      "src": "assets/mitsumori-senbei.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitsumori_Tansan_Senbei.jpg",
+      "author": "Shack",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "三津森本舖の元祖炭酸せんべい",
       "modified": true
     }
   ]
