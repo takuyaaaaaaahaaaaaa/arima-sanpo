@@ -1185,6 +1185,10 @@
     "description": "炭酸せんべいや蒸した饅頭を扱う、喫茶コーナーのある本店。",
     "menus": [
       {
+        "name": "元祖炭酸せんべい",
+        "price": null
+      },
+      {
         "name": "よい湯まんじゅう",
         "price": null
       }
@@ -1213,6 +1217,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/3669631383"
+      },
+      {
+        "title": "三津森本舖の元祖炭酸せんべい写真",
+        "url": "https://commons.wikimedia.org/wiki/File:Mitsumori_Tansan_Senbei.jpg"
       }
     ],
     "checkedAt": "2026-11-28",
