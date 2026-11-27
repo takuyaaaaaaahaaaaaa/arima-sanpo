@@ -1200,7 +1200,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町290-1",
     "lat": 34.7979298,
     "lng": 135.2474335,
-    "official": [],
+    "official": [
+      "https://tansan.co.jp/shop/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1213,6 +1215,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/3669631383"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://tansan.co.jp/shop/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1247,7 +1253,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町288",
     "lat": 34.7976555,
     "lng": 135.2475901,
-    "official": [],
+    "official": [
+      "https://www.arima-hiranoya.com/shop/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1260,6 +1268,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/14272135614"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://www.arima-hiranoya.com/shop/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1294,7 +1306,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町266-10",
     "lat": 34.79981593,
     "lng": 135.24625824,
-    "official": [],
+    "official": [
+      "https://tansan-senbei.com/shop/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1307,6 +1321,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/366251429"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://tansan-senbei.com/shop/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1342,7 +1360,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町1645",
     "lat": 34.7978119,
     "lng": 135.2474633,
-    "official": [],
+    "official": [
+      "https://www.yunohana.jp/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1355,6 +1375,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/6387081914"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://www.yunohana.jp/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1389,7 +1413,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町259",
     "lat": 34.79909492,
     "lng": 135.24672524,
-    "official": [],
+    "official": [
+      "https://www.yoshitakaya.com/shop.html"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1402,6 +1428,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362705091"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://www.yoshitakaya.com/shop.html"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1477,7 +1507,9 @@
     "address": "〒651-1401神戸市北区有馬町1163",
     "lat": 34.796334400000006,
     "lng": 135.24913655555554,
-    "official": [],
+    "official": [
+      "https://arima-stagione.jp/index.html"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1486,6 +1518,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362806218"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://arima-stagione.jp/index.html"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1520,7 +1556,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町835番地",
     "lat": 34.79673535,
     "lng": 135.24763863125,
-    "official": [],
+    "official": [
+      "https://cafedovro.jp/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1529,6 +1567,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362802640"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://cafedovro.jp/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1563,7 +1605,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町1176",
     "lat": 34.796455300000005,
     "lng": 135.24881446,
-    "official": [],
+    "official": [
+      "https://arima-sengen.wixsite.com/douka-tei-jp"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1572,6 +1616,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362806215"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://arima-sengen.wixsite.com/douka-tei-jp"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1605,11 +1653,17 @@
     "address": "〒651-1401神戸市北区有馬町821",
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://arima-geiko.com/history/cafe/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=170091"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://arima-geiko.com/history/cafe/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1685,7 +1739,9 @@
     "address": null,
     "lat": 34.7964737,
     "lng": 135.2480773,
-    "official": [],
+    "official": [
+      "https://tchictac.jp/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1694,6 +1750,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/3669932285"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://tchictac.jp/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -2293,7 +2353,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町1645",
     "lat": 34.79748692,
     "lng": 135.24736192,
-    "official": [],
+    "official": [
+      "https://arima-stagione.jp/arima_brewery.html"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -2306,6 +2368,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362699318"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://arima-stagione.jp/arima_brewery.html"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -3604,7 +3670,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町1688-2",
     "lat": 34.7911409,
     "lng": 135.2445235,
-    "official": [],
+    "official": [
+      "https://www.arima-masuike.jp/service/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -3613,6 +3681,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/13133962576"
+      },
+      {
+        "title": "店舗・施設公式サイト",
+        "url": "https://www.arima-masuike.jp/service/"
       }
     ],
     "checkedAt": "2026-11-28",
