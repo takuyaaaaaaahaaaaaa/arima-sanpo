@@ -1,0 +1,1 @@
+{"name":"arima-sanpo","private":true,"version":"1.0.0","type":"module","scripts":{"build":"node --check app.js && node --check routing.js && node validate.mjs","test":"node --test test.mjs","dev":"python3 -m http.server 4173"}}

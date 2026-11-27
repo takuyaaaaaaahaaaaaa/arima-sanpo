@@ -1,0 +1,4951 @@
+[
+  {
+    "id": "arima-170123",
+    "name": "有馬温泉観光総合案内所",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "散策マップを受け取れる温泉街の案内窓口。",
+    "menus": [
+      {
+        "name": "観光案内",
+        "price": null
+      }
+    ],
+    "hours": "9:30~17:00",
+    "closed": "12/31,1/1のみ",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町790-3",
+    "lat": 34.7978041,
+    "lng": 135.2476925,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170123"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/14272135609"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170122",
+    "name": "天神泉源",
+    "categories": [
+      "泉源"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "天神社の境内で金泉の湯けむりに出会える泉源。",
+    "menus": [
+      {
+        "name": "天神泉源",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.797134,
+    "lng": 135.248642,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170122"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2924055454"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170121",
+    "name": "御所泉源",
+    "categories": [
+      "泉源"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "ねがい坂にある金泉の泉源。夜は昼とは違う表情に。",
+    "menus": [
+      {
+        "name": "御所泉源",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.796436,
+    "lng": 135.247925,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170121"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2924055457"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170077",
+    "name": "妬泉源",
+    "categories": [
+      "泉源"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "湯本坂の路地裏にある、金泉が湧く泉源。",
+    "menus": [
+      {
+        "name": "妬泉源",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.7961695,
+    "lng": 135.2492016,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170077"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2924055456"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-296236",
+    "name": "極楽泉源",
+    "categories": [
+      "泉源"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "寺町界隈で訪ねたい金泉の泉源。",
+    "menus": [
+      {
+        "name": "極楽泉源",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.7955762,
+    "lng": 135.248667,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=296236"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2924055459"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170120",
+    "name": "温泉寺",
+    "categories": [
+      "神社・寺院"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "行基ゆかりの寺。有馬の歴史を感じる散策に。",
+    "menus": [
+      {
+        "name": "温泉寺",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1643",
+    "lat": 34.79584534,
+    "lng": 135.2482215,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170120"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362982917"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170119",
+    "name": "湯泉神社",
+    "categories": [
+      "神社・寺院"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "有馬の温泉と関わりの深い神々を祀る神社。",
+    "menus": [
+      {
+        "name": "湯泉神社",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1908",
+    "lat": 34.7950583,
+    "lng": 135.2486723,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170119"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/5520397953"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170095",
+    "name": "念仏寺",
+    "categories": [
+      "神社・寺院"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "ねねの別邸跡と伝わる寺。沙羅の庭でも知られる。",
+    "menus": [
+      {
+        "name": "念仏寺",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1641",
+    "lat": 34.79609841764706,
+    "lng": 135.2485762882353,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170095"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/288587055"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170094",
+    "name": "極楽寺",
+    "categories": [
+      "神社・寺院"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "秀吉の湯山御殿の遺構が見つかった寺。",
+    "menus": [
+      {
+        "name": "極楽寺",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬1642",
+    "lat": 34.7958287,
+    "lng": 135.2485577,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170094"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6373329586"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170093",
+    "name": "妙見寺",
+    "categories": [
+      "神社・寺院"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "落葉山に建ち、温泉街から登る道も楽しめる寺。",
+    "menus": [
+      {
+        "name": "妙見寺",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1685-1",
+    "lat": 34.79503346,
+    "lng": 135.2428246,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170093"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/262146765"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170092",
+    "name": "林渓寺",
+    "categories": [
+      "神社・寺院"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "梅の古木が残る真宗大谷派の寺。",
+    "menus": [
+      {
+        "name": "林渓寺",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1644",
+    "lat": 34.79600095263158,
+    "lng": 135.2502913894737,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170092"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362905726"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170118",
+    "name": "神戸電鉄有馬温泉駅",
+    "categories": [
+      "交通・設備"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "散策の出発点に使いやすい神戸電鉄の駅。",
+    "menus": [
+      {
+        "name": "鉄道駅",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.7992626,
+    "lng": 135.246512,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170118"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/5160251359"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170117",
+    "name": "阪急バス有馬案内所",
+    "categories": [
+      "交通・設備"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "阪急の高速バスなどが発着する温泉街の交通拠点。",
+    "menus": [
+      {
+        "name": "バス案内所",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.7971911,
+    "lng": 135.2474469,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170117"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/14272151128"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170116",
+    "name": "ロープウェイ有馬温泉駅",
+    "categories": [
+      "交通・設備"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "六甲山上へ向かうロープウェイの有馬側の駅。",
+    "menus": [
+      {
+        "name": "ロープウェイ",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.790984800000004,
+    "lng": 135.24570065,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170116"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/288605654"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170115",
+    "name": "鼓ヶ滝公園",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "温泉街の奥で滝と木々を眺める散策スポット。",
+    "menus": [
+      {
+        "name": "滝・公園",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.789846485,
+    "lng": 135.245552765,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170115"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/676780602"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170114",
+    "name": "瑞宝寺公園",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "瑞宝寺跡の公園。温泉街から足を延ばす散策に。",
+    "menus": [
+      {
+        "name": "公園",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.79462928717948,
+    "lng": 135.25617767435898,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170114"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/648824225"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170076",
+    "name": "炭酸泉源公園",
+    "categories": [
+      "泉源"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "炭酸泉の湧き口を残す公園。案内では現在飲用不可。",
+    "menus": [
+      {
+        "name": "炭酸泉源",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町 字杉ヶ谷1325-1",
+    "lat": 34.7948855,
+    "lng": 135.2504361,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170076"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2924055460"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170075",
+    "name": "愛宕山公園",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "有馬温泉街",
+    "description": "温泉街を見渡せる高台の公園。坂道のある散策。",
+    "menus": [
+      {
+        "name": "展望公園",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170075"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-170113",
+    "name": "金の湯",
+    "categories": [
+      "温泉・足湯"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "有馬を代表する茶褐色の金泉を楽しめる共同浴場。",
+    "menus": [
+      {
+        "name": "金泉入浴",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町833",
+    "lat": 34.796796,
+    "lng": 135.24790795555555,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170113"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/262667576"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170112",
+    "name": "銀の湯",
+    "categories": [
+      "温泉・足湯"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "寺町にある、透明な銀泉を楽しむ共同浴場。",
+    "menus": [
+      {
+        "name": "銀泉入浴",
+        "price": null
+      }
+    ],
+    "hours": "9時~閉館21時(最終受付20時30分) 第1・第3火曜日(祝日営業 翌日休)及び 1月1日",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町1039-1",
+    "lat": 34.79549921333333,
+    "lng": 135.24900437333335,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170112"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362697676"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170111",
+    "name": "太閤の湯",
+    "categories": [
+      "温泉・足湯"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "金泉・銀泉や岩盤浴などを楽しめる温浴施設。",
+    "menus": [
+      {
+        "name": "日帰り温泉",
+        "price": null
+      }
+    ],
+    "hours": "10:00〜22:00(最終入館は21:00)",
+    "closed": "・料金はHPをご確認ください。",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戶市北区有馬町池の尻292­-2",
+    "lat": 34.7978125,
+    "lng": 135.2511563,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170111"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2921394250"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170074",
+    "name": "康貴",
+    "categories": [
+      "温泉・足湯"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "金泉・銀泉と貸切風呂のあるデイユース施設。",
+    "menus": [
+      {
+        "name": "貸切風呂",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町1401",
+    "lat": 34.7973511,
+    "lng": 135.248919,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170074"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/2928687785"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170110",
+    "name": "有馬の工房",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "有馬温泉街",
+    "description": "展示を通じて有馬の歴史文化に触れられる施設。",
+    "menus": [
+      {
+        "name": "展示・休憩",
+        "price": null
+      }
+    ],
+    "hours": "午前9時~午後6時 第4火曜日(祝日営業 翌日休)及び1月1日",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町1019",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170110"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-170109",
+    "name": "太閤湯殿館",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "秀吉ゆかりの湯山御殿の遺構を紹介する資料館。",
+    "menus": [
+      {
+        "name": "遺構展示",
+        "price": null
+      }
+    ],
+    "hours": "午前9時~午後5時(入館は午後4時30分まで)",
+    "closed": "第2水曜日※臨時に休館することがあります。",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町1642",
+    "lat": 34.7956267,
+    "lng": 135.2485825,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170109"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6373329587"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170108",
+    "name": "有馬玩具博物館",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "世代を問わずおもちゃの世界に触れられる博物館。",
+    "menus": [
+      {
+        "name": "おもちゃ展示",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00 (最終入館16:30) 入館料 大人800円子ども500円",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町797番地",
+    "lat": 34.797031266666664,
+    "lng": 135.24792956666667,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170108"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/33/1010/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/262669640"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "入館料は公式散策マップと観光協会店舗ページに不一致があるため未確認。公式施設サイトで要確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170107",
+    "name": "有馬切手文化博物館",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "日本の切手や郵便の歴史をたどる博物館。",
+    "menus": [
+      {
+        "name": "切手展示",
+        "price": null
+      }
+    ],
+    "hours": "10:00~16:00(入館は15:30まで)",
+    "closed": "火曜日 水曜日(祝日の場合は翌日休館)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町663-3",
+    "lat": 34.798781523529414,
+    "lng": 135.2508845647059,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170107"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/363272579"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170106",
+    "name": "有馬籠本店",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "伝統の竹細工・有馬籠を製造販売する店。",
+    "menus": [
+      {
+        "name": "有馬籠",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1049",
+    "lat": 34.79583118,
+    "lng": 135.24935596,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170106"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/363271305"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170105",
+    "name": "西田筆店",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "筆を持つと人形が現れる有馬人形筆の店。",
+    "menus": [
+      {
+        "name": "有馬人形筆",
+        "price": null
+      }
+    ],
+    "hours": "10時~16時",
+    "closed": "水曜日・木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1160",
+    "lat": 34.7964174,
+    "lng": 135.24898304285713,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170105"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/49/1544/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362806217"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170104",
+    "name": "三ツ森本店",
+    "categories": [
+      "和菓子・洋菓子",
+      "食品のお土産",
+      "食べ歩きグルメ"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "炭酸せんべいや蒸した饅頭を扱う、喫茶コーナーのある本店。",
+    "menus": [
+      {
+        "name": "よい湯まんじゅう",
+        "price": null
+      }
+    ],
+    "hours": "8:00~20:00(土曜日21:00)",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町290-1",
+    "lat": 34.7979298,
+    "lng": 135.2474335,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170104"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/18/1421/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3669631383"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170103",
+    "name": "平野屋本舗",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "手焼きの炭酸せんべいをはじめ、さまざまな菓子を扱う店。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "9:00~18:00",
+    "closed": "年中無休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町288",
+    "lat": 34.7976555,
+    "lng": 135.2475901,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170103"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/38/1560/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/14272135614"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170102",
+    "name": "有馬せんべい本舗",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "伝統の製法で炭酸泉せんべいを製造販売。",
+    "menus": [
+      {
+        "name": "炭酸泉せんべい",
+        "price": null
+      }
+    ],
+    "hours": "7:30~19:30",
+    "closed": "元旦のみ",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町266-10",
+    "lat": 34.79981593,
+    "lng": 135.24625824,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170102"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/17/1496/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/366251429"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170101",
+    "name": "湯の花堂本舗 太閤通店",
+    "categories": [
+      "食べ歩きグルメ",
+      "和菓子・洋菓子",
+      "食品のお土産"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "店内で一枚ずつ手焼きする炭酸せんべいの店。",
+    "menus": [
+      {
+        "name": "なま炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "9:00~18:00",
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1645",
+    "lat": 34.7978119,
+    "lng": 135.2474633,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170101"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/14/1485/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6387081914"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170100",
+    "name": "吉高屋",
+    "categories": [
+      "雑貨・お土産",
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "駅前にある明治創業の土産店。温泉ゆかりの品や雑貨探しに。",
+    "menus": [
+      {
+        "name": "有馬の入浴剤・雑貨",
+        "price": null
+      }
+    ],
+    "hours": "9:30~19:00",
+    "closed": "水曜日(祝日の場合は営業)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町259",
+    "lat": 34.79909492,
+    "lng": 135.24672524,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170100"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/46/1388/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362705091"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-296238",
+    "name": "千成屋 本店",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "神鉄駅前にある漬物・佃煮の専門店。",
+    "menus": [
+      {
+        "name": "ひょうたん漬",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=296238"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/22/1429/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-170099",
+    "name": "スタジオーネ",
+    "categories": [
+      "アイス・ジェラート",
+      "食べ歩きグルメ"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "六甲山麓の牛乳を使い、店内の工房でジェラートを作る店。",
+    "menus": [
+      {
+        "name": "ジェラート",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00夏季延長あり",
+    "closed": "火曜日 水曜日(祝日の場合は翌日休み)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町1163",
+    "lat": 34.796334400000006,
+    "lng": 135.24913655555554,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170099"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362806218"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170098",
+    "name": "カフェドボウ",
+    "categories": [
+      "カフェ・喫茶店",
+      "和菓子・洋菓子"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "歴史ある建物の面影を残したカフェ。湯本坂の休憩に。",
+    "menus": [
+      {
+        "name": "喫茶・洋菓子",
+        "price": null
+      }
+    ],
+    "hours": "9時~18時(LO17時)",
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町835番地",
+    "lat": 34.79673535,
+    "lng": 135.24763863125,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170098"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362802640"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170096",
+    "name": "茶房 堂加亭",
+    "categories": [
+      "カフェ・喫茶店",
+      "ドリンク・地酒"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "湯本坂の古民家茶房。丹波の母子茶や自家製ドリンクを提供。",
+    "menus": [
+      {
+        "name": "母子茶・コーヒー",
+        "price": null
+      }
+    ],
+    "hours": "平日11:00~17:00 土日祝11:00~17:30",
+    "closed": "木・金曜(祝日の場合は営業)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1176",
+    "lat": 34.796455300000005,
+    "lng": 135.24881446,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170096"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362806215"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-170091",
+    "name": "芸妓カフェ一糸",
+    "categories": [
+      "カフェ・喫茶店"
+    ],
+    "area": "有馬温泉街",
+    "description": "芸妓の舞台があるカフェ。公演日程は事前確認を。",
+    "menus": [
+      {
+        "name": "喫茶",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町821",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170091"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-170078",
+    "name": "浪花鮓 まえなか",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "駅前の寿司店。うどんや蕎麦の食事も。",
+    "menus": [
+      {
+        "name": "すし・うどん定食",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1298-10",
+    "lat": 34.79909636,
+    "lng": 135.24639726,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170078"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362706827"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-296237",
+    "name": "茶房チックタク",
+    "categories": [
+      "カフェ・喫茶店",
+      "ランチ・飲食店"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "時計が目印の路地裏の茶房。オムライスやコーヒーを提供。",
+    "menus": [
+      {
+        "name": "自然たまごのオムライス",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": null,
+    "lat": 34.7964737,
+    "lng": 135.2480773,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=296237"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3669932285"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326516",
+    "name": "有馬天神茶屋",
+    "categories": [
+      "カフェ・喫茶店",
+      "食べ歩きグルメ"
+    ],
+    "area": "有馬温泉街",
+    "description": "天神泉源のある境内で、温泉玉子やおやきとひと休み。",
+    "menus": [
+      {
+        "name": "有馬温泉玉子・おやき",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326516"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326555",
+    "name": "お食事処 なかさ",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "麺類やかやくご飯、甘味セットを扱う食事処。",
+    "menus": [
+      {
+        "name": "天ざる",
+        "price": null
+      }
+    ],
+    "hours": "10:00~15:00水曜日~日曜日で夜営業あり",
+    "closed": "火曜日・不定休業あり お食事処なかさ(@nakasa_39) / X",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町868-4",
+    "lat": 34.7965829,
+    "lng": 135.2476873,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326555"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3674496297"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326556",
+    "name": "もみじ茶屋",
+    "categories": [
+      "カフェ・喫茶店"
+    ],
+    "area": "有馬温泉街",
+    "description": "瑞宝寺公園の紅葉シーズン限定茶屋。冬の営業は未確認。",
+    "menus": [
+      {
+        "name": "ぜんざい・甘酒",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町 瑞宝園内",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326556"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326557",
+    "name": "居酒屋 紀龍",
+    "categories": [
+      "ランチ・飲食店",
+      "肉・揚げ物"
+    ],
+    "area": "有馬温泉街",
+    "description": "手羽唐や鍋、麺類を揃える夕方からの居酒屋。",
+    "menus": [
+      {
+        "name": "紀龍の手羽唐",
+        "price": null
+      }
+    ],
+    "hours": "17:00~(L.o.22:30)",
+    "closed": "月曜日(月曜祝日の場合は火曜定休)、及び、ザグランリゾート有馬の休館日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401 神戸市北区有馬町1740-1 ザグランリゾート有馬 1Fレストラン内",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326557"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326558",
+    "name": "一品小料理 こぶし",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "カウンターで季節の小鉢を楽しめる小料理店。",
+    "menus": [
+      {
+        "name": "季節の小鉢",
+        "price": null
+      }
+    ],
+    "hours": "17:30~21:00",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町483-2",
+    "lat": 34.7974593,
+    "lng": 135.2526768,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326558"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3672823283"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326629",
+    "name": "イリュージョンランドなんで屋⁉",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "有馬温泉街",
+    "description": "イリュージョンショーを楽しむ施設。料金・開催は公式で確認を。",
+    "menus": [
+      {
+        "name": "マジックショー",
+        "price": null
+      }
+    ],
+    "hours": "​: 17:00~​23:00",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401 神戸市北区有馬町166-14有馬舘駅前ビル 3階",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://www.nandeya-magic.com/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326629"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326630",
+    "name": "Coccinelle コチネレ",
+    "categories": [
+      "和菓子・洋菓子",
+      "カフェ・喫茶店"
+    ],
+    "area": "有馬温泉街",
+    "description": "店内工房で米粉のフィナンシェを焼き上げる店。",
+    "menus": [
+      {
+        "name": "米粉のフィナンシェ",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00",
+    "closed": "水曜・木曜",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "住所 神戸市北区有馬町1012",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://www.instagram.com/coccinellearima/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326630"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326947",
+    "name": "お食事処 う越利",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "天ぷらや寿司、蕎麦などの和食を扱う食事処。",
+    "menus": [
+      {
+        "name": "天ざる定食",
+        "price": null
+      }
+    ],
+    "hours": "11:30~15:0017:00~19:00(L.o18:30)",
+    "closed": "火曜日(祝日の場合営業)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町838",
+    "lat": 34.796529500000005,
+    "lng": 135.24736414,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326947"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362802048"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-326948",
+    "name": "ありま坂",
+    "categories": [
+      "ランチ・飲食店",
+      "肉・揚げ物"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "観光案内所そばの居酒屋。山椒コロッケや季節の料理を提供。",
+    "menus": [
+      {
+        "name": "山椒コロッケ",
+        "price": null
+      }
+    ],
+    "hours": "17:00~燃え尽きるまで。",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町286- 2F",
+    "lat": 34.7977373,
+    "lng": 135.2476524,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326948"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/14272135611"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326949",
+    "name": "コーヒープリンセス 有馬温泉店",
+    "categories": [
+      "カフェ・喫茶店",
+      "和菓子・洋菓子"
+    ],
+    "area": "有馬温泉街",
+    "description": "季節のフルーツパフェやサンドイッチを楽しむカフェ。",
+    "menus": [
+      {
+        "name": "季節の果物パフェ",
+        "price": null
+      }
+    ],
+    "hours": "11:00-17:00 (L.O 16:00)",
+    "closed": "無休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町228−12",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://princess-eyelash.info/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326949"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326950",
+    "name": "お好み焼き きんちゃん",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "夕方から営業するお好み焼き・鉄板焼きの店。",
+    "menus": [
+      {
+        "name": "お好み焼き",
+        "price": null
+      }
+    ],
+    "hours": "17:00 ~22:00",
+    "closed": "日曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町172",
+    "lat": 34.8024005,
+    "lng": 135.2476983,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326950"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3669893504"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326951",
+    "name": "猪名野茶房～中の坊瑞苑～",
+    "categories": [
+      "カフェ・喫茶店",
+      "和菓子・洋菓子"
+    ],
+    "area": "有馬温泉街",
+    "description": "本格的な日本茶と手づくりの和菓子を楽しむ茶房。",
+    "menus": [
+      {
+        "name": "できたてわらび餅",
+        "price": null
+      }
+    ],
+    "hours": "11:00~17:30(17:00L.O)",
+    "closed": "水曜日 ※祝日の場合翌営業日にお休みをいただく場合がございます。",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町808",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://www.zuien.jp/inano_sabo"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326951"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326952",
+    "name": "Griddle Me Local（グリドル・ミー・ローカル)",
+    "categories": [
+      "ランチ・飲食店",
+      "カフェ・喫茶店",
+      "肉・揚げ物"
+    ],
+    "area": "有馬温泉街",
+    "description": "兵庫県産の食材を使うカフェレストラン。パンケーキも。",
+    "menus": [
+      {
+        "name": "神戸牛＆神戸ポークのハンバーグ",
+        "price": null
+      }
+    ],
+    "hours": "11:00-21:00 (L.O.20:30)",
+    "closed": "なし",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401 神戶市北区有馬町1021-1A",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://www.instagram.com/griddlemelocal/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326952"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326953",
+    "name": "あり釜めし くつろぎ家",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "魚介や山の幸の釜めしを、古い一軒家で楽しむ食事処。",
+    "menus": [
+      {
+        "name": "釜めし",
+        "price": null
+      }
+    ],
+    "hours": "11:00~無くなり次第終了 17:00~無くなり次第終了",
+    "closed": "火曜日・水曜日(祝日の場合営業) 不定休で休業有※予約承っておりません。",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町839-2",
+    "lat": 34.79646616363636,
+    "lng": 135.24723572727274,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326953"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362698880"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-326954",
+    "name": "ARIMA BREWERY（アリマブリュワリー）（有馬太閤通り）",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "太閤通りの立ち飲みと地酒の店。旧・酒市場。",
+    "menus": [
+      {
+        "name": "生ビール・地酒",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:30",
+    "closed": "無休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1645",
+    "lat": 34.79748692,
+    "lng": 135.24736192,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326954"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/29/1552/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362699318"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-326955",
+    "name": "うわなり珈琲",
+    "categories": [
+      "カフェ・喫茶店",
+      "和菓子・洋菓子",
+      "食べ歩きグルメ"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "妬泉源の隣で六甲カフェオレとチーズケーキを。",
+    "menus": [
+      {
+        "name": "有馬温泉チーズケーキ",
+        "price": null
+      }
+    ],
+    "hours": "9:30-18:00",
+    "closed": "なし",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": true,
+    "dinein": true,
+    "address": "〒651-1401 神戶市北区有馬町1033-4",
+    "lat": 34.7962368,
+    "lng": 135.2493161,
+    "official": [
+      "https://www.bruecke.jp/group-shop"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326955"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/11296449094"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326990",
+    "name": "Cafe ＆Bar みやび",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "温泉街の景色を眺めながら一杯を楽しむ夜のカフェバー。",
+    "menus": [
+      {
+        "name": "ウイスキー",
+        "price": null
+      }
+    ],
+    "hours": "19:00〜23:00 (LO22:00)",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1300-22",
+    "lat": 34.7972216,
+    "lng": 135.2472088,
+    "official": [
+      "https://miyabi-cafebar.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326990"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/14272037790"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-326991",
+    "name": "おだしとおやさい 翠",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉街",
+    "description": "兵庫県産の野菜を使うせいろ蒸しと日本酒の店。",
+    "menus": [
+      {
+        "name": "野菜のせいろ蒸し",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": "火曜日午後・水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町1021-1B",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://midori-arima.jp"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326991"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326992",
+    "name": "有馬焼肉 丞 -TASUKU-",
+    "categories": [
+      "肉・揚げ物",
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉街",
+    "description": "神戸牛や黒毛和牛の焼肉を提供する食事処。",
+    "menus": [
+      {
+        "name": "焼肉・神戸牛ステーキ",
+        "price": null
+      }
+    ],
+    "hours": "11:30~14:00 17:00~21:00",
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市有馬町1298-9森山ビル",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://www.instagram.com/arimayakiniku.tasuku/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326992"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-326993",
+    "name": "おなじみ料理 「和楽」",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉街",
+    "description": "うどんや天ぷら、和膳を楽しむ和食店。",
+    "menus": [
+      {
+        "name": "天ぷら・和膳",
+        "price": null
+      }
+    ],
+    "hours": "ランチタイム 11:30~14:30(L.o. 14:00) ディナ-タイム 17:30~21:30(L.o. 21:00) ※木曜日定休 夜営業は土曜・日曜のみ",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町1304-1",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://www.arima-gh.jp/waraku.htm"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=326993"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-327132",
+    "name": "ラウンジ 花泉",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬温泉駅近くの夜のラウンジ。",
+    "menus": [
+      {
+        "name": "ラウンジ",
+        "price": null
+      }
+    ],
+    "hours": "20:00~26:00くらい",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町266-14 下原ビル2F(駅横すぐ)",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=327132"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-327291",
+    "name": "焼酎Bar SAKAMOTO家",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "焼酎を中心に、軽食も扱う駅前のバー。",
+    "menus": [
+      {
+        "name": "焼酎",
+        "price": null
+      }
+    ],
+    "hours": "火曜日~木曜日 19:00~24:00 金曜日~日曜日 19:00~25:00",
+    "closed": "月曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町266-14 駅前ビル1F",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=327291"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-327292",
+    "name": "Comfortable Space 籾路",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬スカイハイツ内にある夜の飲食店。",
+    "menus": [
+      {
+        "name": "バー",
+        "price": null
+      }
+    ],
+    "hours": "18:00~24:00",
+    "closed": ". 休不定",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒 651-1401兵庫県神戸市北区有馬町1300-4 有馬スカイハイツ1F",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=327292"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-327293",
+    "name": "居酒屋 三五郎",
+    "categories": [
+      "ランチ・飲食店",
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "カウンターで一品料理を楽しむ居酒屋。",
+    "menus": [
+      {
+        "name": "ほるもんうどん",
+        "price": null
+      }
+    ],
+    "hours": "18:30~23:30頃",
+    "closed": ". 木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町266-14 下原ビル1F",
+    "lat": 34.7994535,
+    "lng": 135.2461844,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=327293"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6888582222"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328535",
+    "name": "カフェ・バー&カラオケ To Emmy",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "カラオケを楽しめるカフェバー。昼の利用は事前確認を。",
+    "menus": [
+      {
+        "name": "カラオケ・ドリンク",
+        "price": null
+      }
+    ],
+    "hours": "19:00~25:00(携帯090-2594-5080) ●駐車場完備 ●送迎も致します ●",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町61",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328535"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328536",
+    "name": "ラウンジ PARTNER",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "カラオケと飲み放題プランのあるラウンジ。",
+    "menus": [
+      {
+        "name": "ラウンジ",
+        "price": null
+      }
+    ],
+    "hours": "20:00-25:00",
+    "closed": "無休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町266-14下原ビルB1",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328536"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328537",
+    "name": "お食事処 一休",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "湯本坂界隈にある、昼と夜の食事処。",
+    "menus": [
+      {
+        "name": "食事",
+        "price": null
+      }
+    ],
+    "hours": "11:00~15:00(L.O14:30) 17:00~20:00(L.O19:30) 土日祝営業時間 11:00~20:00(L.O19:30)",
+    "closed": "月曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1196",
+    "lat": 34.7967344,
+    "lng": 135.2484623,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328537"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3669960079"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328538",
+    "name": "喫茶 ベンチタイム",
+    "categories": [
+      "カフェ・喫茶店",
+      "和菓子・洋菓子"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "手づくりのケーキを楽しむ喫茶店。持ち帰りにも対応。",
+    "menus": [
+      {
+        "name": "シフォンケーキ",
+        "price": null
+      }
+    ],
+    "hours": "10:30~17:00",
+    "closed": "水曜日・木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": true,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1158",
+    "lat": 34.796428,
+    "lng": 135.2489114,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328538"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/9118908518"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328539",
+    "name": "焼肉 味楽",
+    "categories": [
+      "肉・揚げ物",
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉街",
+    "description": "温泉街で焼肉を楽しむ店。座敷席もある。",
+    "menus": [
+      {
+        "name": "焼肉",
+        "price": null
+      }
+    ],
+    "hours": "17:30-21:30頃",
+    "closed": "木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町477",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328539"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328540",
+    "name": "竹中肉店",
+    "categories": [
+      "肉・揚げ物",
+      "食べ歩きグルメ"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "精肉店の揚げたてコロッケやメンチカツを散策のお供に。",
+    "menus": [
+      {
+        "name": "コロッケ・メンチカツ",
+        "price": null
+      }
+    ],
+    "hours": "10:00〜17:00",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401神戸市北区有馬町813",
+    "lat": 34.7965121,
+    "lng": 135.2485341,
+    "official": [
+      "https://www.arima-takenaka29.com/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328540"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6387081917"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328541",
+    "name": "関所カフェ",
+    "categories": [
+      "カフェ・喫茶店"
+    ],
+    "area": "有馬温泉街",
+    "description": "コッペパンサンドを扱うカフェ。中心部から少し離れた立地。",
+    "menus": [
+      {
+        "name": "コッペパンサンド",
+        "price": null
+      }
+    ],
+    "hours": "不定休",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町字山田山1820-4",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://sekishocafe.wixsite.com/sekisho-cafe"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328541"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328542",
+    "name": "有馬ラー麺 青龍居",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "炭火焼チャーシューと九条ねぎを使うラーメンの店。",
+    "menus": [
+      {
+        "name": "炭火焼チャーシュー麺",
+        "price": null
+      }
+    ],
+    "hours": "11:30~15:00",
+    "closed": "木曜日・不定休有",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1298-3",
+    "lat": 34.7989531,
+    "lng": 135.2466251,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328542"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/5160794661"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328543",
+    "name": "パン工房 イーゲル",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "自家製天然酵母のパンを扱う小さな工房。",
+    "menus": [
+      {
+        "name": "天然酵母パン",
+        "price": null
+      }
+    ],
+    "hours": "11:00~17:00(パンが売切れて無くなり次第 終了です)",
+    "closed": "月火水(=仕込みの日) 営業日:木金土 ※繁忙期=定休・営業 振替有 お電話ください",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1229-1",
+    "lat": 34.791997880000004,
+    "lng": 135.2458108,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328543"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/363075737"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-328544",
+    "name": "味どころ とみた",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "丼やうどんを楽しむ食事処。",
+    "menus": [
+      {
+        "name": "カツ丼",
+        "price": null
+      }
+    ],
+    "hours": "11:00~15:15(L.o 14:45) 17:00~20:00(L.o 19:30)",
+    "closed": "水曜日・金曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町288",
+    "lat": 34.79758713333333,
+    "lng": 135.24759996666668,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328544"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362738811"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-328545",
+    "name": "居酒屋 ゆたか",
+    "categories": [
+      "ランチ・飲食店",
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬スカイハイツにある居酒屋。メニュー詳細は未確認。",
+    "menus": [
+      {
+        "name": "居酒屋料理",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1300−4 有馬スカイハイツ 2F",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://izakayayutaka.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328545"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328546",
+    "name": "BAR DE GOZAR",
+    "categories": [
+      "ドリンク・地酒"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "金の湯の向かいで、ビールやソーセージを楽しむバー。",
+    "menus": [
+      {
+        "name": "ビール・ソーセージ",
+        "price": null
+      }
+    ],
+    "hours": "10:00~20:00不定休(ご遠慮なくお電話ください)",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町797",
+    "lat": 34.7970214,
+    "lng": 135.2478328,
+    "official": [
+      "http://www.alimali.jp/gozar/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328546"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/5160364779"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328547",
+    "name": "全寿庵 ごんそば",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬の工房1階にある手打ちそばの店。",
+    "menus": [
+      {
+        "name": "十割そば",
+        "price": null
+      }
+    ],
+    "hours": "平 日 11:00~16:00 土日祝 10:00~17:00",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1019 有馬の工房1F",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328547"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328548",
+    "name": "テクテク",
+    "categories": [
+      "ドリンク・地酒",
+      "ランチ・飲食店"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "ハイボールと一品料理の店。予約弁当の販売も。",
+    "menus": [
+      {
+        "name": "下町ハイボール",
+        "price": null
+      }
+    ],
+    "hours": "お弁当は11時〜13時、ご予約は当日10時までにお願いいたします。 店内営業は土日13時〜17時、その他の時間についてはお問い合わせください。",
+    "closed": "火曜日(臨時休業あり)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": true,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町261",
+    "lat": 34.7995691,
+    "lng": 135.246606,
+    "official": [
+      "https://www.instagram.com/tekuteku2018"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328548"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/5291685832"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-328549",
+    "name": "名物てんぷら 有馬市",
+    "categories": [
+      "肉・揚げ物",
+      "食べ歩きグルメ"
+    ],
+    "area": "有馬温泉街",
+    "description": "あなごやチーズなど、食べ歩き向けの天ぷらを販売。",
+    "menus": [
+      {
+        "name": "揚げかまぼこ",
+        "price": null
+      }
+    ],
+    "hours": "9:30~17:30頃",
+    "closed": "火曜日(祝日・繁忙期 振替営業)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": true,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1645",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328549"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328550",
+    "name": "misono – Curry noodle’s & Belgian Beer BAR",
+    "categories": [
+      "ランチ・飲食店",
+      "ドリンク・地酒"
+    ],
+    "area": "有馬温泉街",
+    "description": "昼はカレーうどん、夜はベルギービールと料理を楽しむ店。",
+    "menus": [
+      {
+        "name": "カレーうどん",
+        "price": null
+      }
+    ],
+    "hours": "ランチ 『カレーうどん専門店』11:30 ~ 15:00 ※うどんが無くなり次第終了します ディナー 『ベルギービール・ダイニング』17:30~22:00(最終入店) 閉店 24:00",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町869",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328550"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-328551",
+    "name": "SABOR（ハンバーガー・サンドイッチ）",
+    "categories": [
+      "ランチ・飲食店",
+      "肉・揚げ物"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬玩具博物館2階で、但馬玄のパティを使うバーガーを。",
+    "menus": [
+      {
+        "name": "ハンバーガー",
+        "price": null
+      }
+    ],
+    "hours": "11:30~15:00",
+    "closed": "木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町797有馬玩具博物館2F",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.alimali.jp/sabor/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=328551"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-331491",
+    "name": "レストランカフェ Elle Bon",
+    "categories": [
+      "ランチ・飲食店",
+      "カフェ・喫茶店"
+    ],
+    "area": "有馬温泉街",
+    "description": "駅近くで楽しむフレンチ。手づくりケーキの持ち帰りも。",
+    "menus": [
+      {
+        "name": "フランス料理",
+        "price": null
+      }
+    ],
+    "hours": "ランチタイム 11:00-14:30 *ディナータイム 17:30-21:30(L.O.20:30) *ティータイム 10:00-11:00/14:30-17:30",
+    "closed": "月曜日(祝日の場合であっても)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": true,
+    "dinein": true,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1294-2 有栄ビル2F",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.ellebon.com"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=331491"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-331492",
+    "name": "有馬十八番",
+    "categories": [
+      "食べ歩きグルメ",
+      "ランチ・飲食店"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "明石焼や山椒を使う有馬焼の店。掲載価格は古いため要確認。",
+    "menus": [
+      {
+        "name": "明石焼・有馬焼",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町1183",
+    "lat": 34.7964654,
+    "lng": 135.2486568,
+    "official": [
+      "https://www.facebook.com/arimacid",
+      "https://www.facebook.com/arimacider"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=331492"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/3669939470"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "観光協会掲載の営業時間は過去の時短要請期間の情報のため不採用。最新の通常営業・年末営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-331494",
+    "name": "お食事処 滝見茶屋（休業中）",
+    "categories": [
+      "ランチ・飲食店"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "公式散策マップでは休業中と案内。訪問前に確認を。",
+    "menus": [
+      {
+        "name": "食事",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": "雨天、12月頃から3月中旬まで寒冷地の為休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1230",
+    "lat": 34.7892769,
+    "lng": 135.245977,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=331494"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6561998486"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "休業中",
+    "notice": "公式散策マップに休業中の記載あり。再開日は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-331495",
+    "name": "JOURNEYS多国籍屋台",
+    "categories": [
+      "カフェ・喫茶店",
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "公式情報は期間限定出店の案内。現在の常設営業は未確認。",
+    "menus": [
+      {
+        "name": "ドリンク・ワークショップ",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1169-2",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://journeys1.com/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=331495"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "掲載情報は7月の期間限定出店。現在の営業形態・年末営業は未確認。"
+  },
+  {
+    "id": "arima-331496",
+    "name": "旬彩 猪名野",
+    "categories": [
+      "ランチ・飲食店",
+      "肉・揚げ物"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "地元食材の和食を、太閤通りの食事処で。",
+    "menus": [
+      {
+        "name": "神戸牛すき鍋膳",
+        "price": null
+      }
+    ],
+    "hours": "11:30~14:30(L.o.) 17:00~20:30(L.o.)",
+    "closed": "水曜日(不定休あり、休店日はお問合せ下さい)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401神戸市北区有馬町808",
+    "lat": 34.797414,
+    "lng": 135.2476463,
+    "official": [
+      "http://www.zuien.jp/building/inano.html"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=331496"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6437962527"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170097",
+    "name": "有馬ます池",
+    "categories": [
+      "観光・写真撮影スポット",
+      "ランチ・飲食店"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "釣りと食事が楽しめる温泉街の奥の施設。",
+    "menus": [
+      {
+        "name": "ニジマス釣り",
+        "price": null
+      }
+    ],
+    "hours": "9:00~17:00(12月~2月は9:30~16:30) 休園日 水曜日。12月~2月は水・木曜を休園します。また年末と元日は休園いたします。※祝日と重なった場合、後日に休園。春休み、GW、夏休みは無休。",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1688-2",
+    "lat": 34.7911409,
+    "lng": 135.2445235,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170097"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/13133962576"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-170084",
+    "name": "モンベルルーム有馬店",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "散策や登山の用品を扱うモンベルの店舗。",
+    "menus": [
+      {
+        "name": "アウトドア用品",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵県神戸市北区有馬町1039-5",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170084"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-170083",
+    "name": "泉堂 工場店",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "有馬温泉街",
+    "description": "炭酸せんべいやクリームサンドを作る工場店。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "8:30~18:00",
+    "closed": "木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵庫県神戸市北区有馬町1041",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170083"
+      },
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/42/1445/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-170082",
+    "name": "池之坊満月城駐車場",
+    "categories": [
+      "交通・設備"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "温泉街中心部の有料駐車場。最新の料金は現地で確認を。",
+    "menus": [
+      {
+        "name": "駐車場",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401兵県神戸市北区有馬町865",
+    "lat": 34.79624725,
+    "lng": 135.24684872142856,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/viewer/1706503555?spot=170082"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362912679"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1423",
+    "name": "mitumori cafe 三ツ森おまんじゅうのお店",
+    "categories": [
+      "和菓子・洋菓子",
+      "カフェ・喫茶店"
+    ],
+    "area": "有馬温泉街",
+    "description": "湯本坂で季節の手づくり和菓子を。店内でも楽しめる。",
+    "menus": [
+      {
+        "name": "和菓子",
+        "price": null
+      }
+    ],
+    "hours": "9:00~17:00",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": true,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町811",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.tansan.co.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/02/1423/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1554",
+    "name": "若狭屋",
+    "categories": [
+      "雑貨・お土産",
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "金泉・銀泉の入浴剤や有馬の土産を扱う店。",
+    "menus": [
+      {
+        "name": "入浴剤・炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "9:00~20:00",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町829",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/04/1554/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1498",
+    "name": "山椒彩家 川上商店",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬山椒の調味料や菓子などを探せる山椒専門店。",
+    "menus": [
+      {
+        "name": "山椒・調味料",
+        "price": null
+      }
+    ],
+    "hours": "9:00~17:30",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 神戸市北区有馬町1172",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.kawakami-shouten.co.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/06/1498/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1546",
+    "name": "喜楽屋",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "駅そばで和小物や金泉染などを扱う店。着物レンタルも。",
+    "menus": [
+      {
+        "name": "和小物",
+        "price": null
+      }
+    ],
+    "hours": "9:00~22:00",
+    "closed": "木曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町266-4",
+    "lat": 34.7994134,
+    "lng": 135.2463578,
+    "official": [
+      "http://www.arima-kirakuya.net/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/10/1546/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/5160251360"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-shop-1490",
+    "name": "大黒屋",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬の山椒などの素材を使う手づくり佃煮の店。",
+    "menus": [
+      {
+        "name": "松茸昆布・佃煮",
+        "price": null
+      }
+    ],
+    "hours": "8:30~18:30",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1201",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/12/1490/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1558",
+    "name": "kinari 有馬温泉店",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "湯本坂にあるガラスのとんぼ玉とアクセサリーの店。",
+    "menus": [
+      {
+        "name": "とんぼ玉アクセサリー",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 神戸市北区有馬町1170-3",
+    "lat": 34.7964329,
+    "lng": 135.24932891818182,
+    "official": [
+      "http://arima.tonbodama.com"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/13/1558/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362804971"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1494",
+    "name": "川上商店 本店",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "湯本坂の老舗佃煮店。有馬山椒を使う品も豊富。",
+    "menus": [
+      {
+        "name": "松茸昆布・山椒佃煮",
+        "price": null
+      }
+    ],
+    "hours": "9:00~18:00",
+    "closed": "年中無休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1193",
+    "lat": 34.796583271428574,
+    "lng": 135.24859055714288,
+    "official": [
+      "http://www.kawakami-shouten.co.jp"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/17/1494/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362733766"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1438",
+    "name": "泉堂 本店",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "有馬温泉街",
+    "description": "炭酸せんべいや季節の和菓子を扱う本店。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "9:00~17:00",
+    "closed": "火曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町868-1",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/19/1438/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1483",
+    "name": "湯の花堂本舗 工場直営店",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "寺町・炭酸泉源",
+    "description": "ロープウェイ方面にある炭酸せんべいの工場直営店。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "8:00~16:00",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1714",
+    "lat": 34.792753,
+    "lng": 135.2466596,
+    "official": [
+      "http://www.yunohana.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/20/1483/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/6387096458"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-shop-1486",
+    "name": "湯の花堂本舗 本店",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "金の湯近くの炭酸せんべい製造元の本店。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "9:00~17:00 9:00~18:00(土、日、祝日)",
+    "closed": "水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町870",
+    "lat": 34.796396779999995,
+    "lng": 135.24750728,
+    "official": [
+      "http://www.yunohana.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/22/1486/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362915561"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1450",
+    "name": "ひょうたん堂",
+    "categories": [
+      "雑貨・お土産",
+      "食品のお土産"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "湯けむり広場近くで温泉街のお土産探しを。",
+    "menus": [
+      {
+        "name": "有馬土産",
+        "price": null
+      }
+    ],
+    "hours": "9:00~19:00",
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町290-2",
+    "lat": 34.7979832,
+    "lng": 135.247384,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/29/1450/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/node/11294833474"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの掲載位置（現地未検証）"
+  },
+  {
+    "id": "arima-shop-1556",
+    "name": "若狭屋 支店",
+    "categories": [
+      "雑貨・お土産",
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "金の湯近くにある若狭屋の支店。入浴剤などを扱う。",
+    "menus": [
+      {
+        "name": "入浴剤",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町838",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/32/1556/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1390",
+    "name": "温泉堂",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "御所泉源前にある吉高屋の支店。",
+    "menus": [
+      {
+        "name": "温泉グッズ・雑貨",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00",
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町820",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://yoshitakaya.com"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/38/1390/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1425",
+    "name": "三ツ森 太閤通り店",
+    "categories": [
+      "食べ歩きグルメ",
+      "和菓子・洋菓子",
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "善福寺門前にある三ツ森の支店。蒸した饅頭を販売。",
+    "menus": [
+      {
+        "name": "よい湯まんじゅう",
+        "price": null
+      }
+    ],
+    "hours": "9:00~17:00(土曜日21:00)",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.tansan.co.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/38/1425/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1427",
+    "name": "三津森本舗",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "湯本坂で炭酸せんべいを焼く三ツ森の店舗。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "9:00~18:00",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町809",
+    "lat": 34.79671182,
+    "lng": 135.2482663,
+    "official": [
+      "http://www.tansan.co.jp/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/40/1427/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362918971"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1488",
+    "name": "有馬片山幹雄商店",
+    "categories": [
+      "ドリンク・地酒",
+      "食品のお土産"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "有馬の酒販店。地酒や飲み物を探す際に。",
+    "menus": [
+      {
+        "name": "酒類",
+        "price": null
+      }
+    ],
+    "hours": "午前8時30分~午後7時",
+    "closed": "月曜日 営業時間:午前8時30分~午後7時",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 神戸市北区有馬町1305-2",
+    "lat": 34.799351449999996,
+    "lng": 135.24515908333333,
+    "official": [
+      "https://retty.me/area/PRE28/ARE10"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/40/1488/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362707722"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1436",
+    "name": "千成屋 北店",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "阪急バス乗り場前にある漬物・佃煮の店。",
+    "menus": [
+      {
+        "name": "ひょうたん漬",
+        "price": null
+      }
+    ],
+    "hours": "9:00~18:00",
+    "closed": "不定休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1645",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://arima-sennariya.jp/ec/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/46/1436/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1564",
+    "name": "やなぎや",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "和小物やバッグ、竹製品などを扱う温泉街の雑貨店。",
+    "menus": [
+      {
+        "name": "和雑貨",
+        "price": null
+      }
+    ],
+    "hours": "9:00~18:00",
+    "closed": "火曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町837",
+    "lat": null,
+    "lng": null,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/46/1564/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1550",
+    "name": "ALIMALI ミュージアムショップ",
+    "categories": [
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "有馬玩具博物館1階のお店。木のおもちゃや絵本を販売。",
+    "menus": [
+      {
+        "name": "おもちゃ・絵本",
+        "price": null
+      }
+    ],
+    "hours": "10:00~17:00",
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 神戸市北区有馬町797",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.arima-toys.jp"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/49/1550/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-shop-1562",
+    "name": "梅村商店",
+    "categories": [
+      "ドリンク・地酒",
+      "食品のお土産"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "米や酒類を扱う明治創業の商店。",
+    "menus": [
+      {
+        "name": "米・酒類",
+        "price": null
+      }
+    ],
+    "hours": "8時30分〜19時00分",
+    "closed": "毎週水曜日",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1080",
+    "lat": 34.7964252,
+    "lng": 135.25033165714285,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/50/1562/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362903996"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1492",
+    "name": "川上商店 南店",
+    "categories": [
+      "食品のお土産"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "金の湯近くにある川上商店の支店。",
+    "menus": [
+      {
+        "name": "松茸昆布・ちりめん山椒",
+        "price": null
+      }
+    ],
+    "hours": "9:30~18:00",
+    "closed": "火、水曜日(本店は年中無休です。)",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町869-1",
+    "lat": 34.79647986,
+    "lng": 135.2476,
+    "official": [
+      "http://www.kawakami-shouten.co.jp"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/52/1492/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362915563"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1447",
+    "name": "湯の里本舗",
+    "categories": [
+      "食品のお土産",
+      "和菓子・洋菓子"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "伝統の風味を受け継いで炭酸せんべいを作る店。",
+    "menus": [
+      {
+        "name": "炭酸せんべい",
+        "price": null
+      }
+    ],
+    "hours": "7:00~17:00",
+    "closed": "無休",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 兵庫県神戸市北区有馬町1251-1",
+    "lat": 34.80178128,
+    "lng": 135.24785776,
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/53/1447/"
+      },
+      {
+        "title": "OpenStreetMap contributors（ODbL）位置情報",
+        "url": "https://www.openstreetmap.org/way/362899937"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。",
+    "coordinateNote": "OpenStreetMapの建物・敷地の代表点（入口位置ではありません）"
+  },
+  {
+    "id": "arima-shop-1566",
+    "name": "有馬炭酸力",
+    "categories": [
+      "ドリンク・地酒",
+      "雑貨・お土産"
+    ],
+    "area": "有馬温泉街",
+    "description": "全国の炭酸飲料や炭酸を使う雑貨を扱う専門店。",
+    "menus": [
+      {
+        "name": "炭酸飲料",
+        "price": null
+      }
+    ],
+    "hours": "11:00~18:00",
+    "closed": "無し",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "〒651-1401 神戸市北区有馬町798番地 湯本ビル2階",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "http://www.tansan.pw/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/58/1566/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-kinsendo-station",
+    "name": "金泉堂 駅本店",
+    "categories": [
+      "和菓子・洋菓子",
+      "食品のお土産",
+      "食べ歩きグルメ"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "有馬銘菓・金泉焼の直営店。餡入りの焼き菓子をお土産に。",
+    "menus": [
+      {
+        "name": "金泉焼",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": "元旦のみ（観光協会掲載・臨時変更あり）",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "兵庫県神戸市北区有馬町266-2",
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://kinsenyaki.net/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/38/1384/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "支店ごとの営業時間・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "arima-kinsendo-taiko",
+    "name": "金泉堂 太閤通り店",
+    "categories": [
+      "和菓子・洋菓子",
+      "食品のお土産",
+      "食べ歩きグルメ"
+    ],
+    "area": "太閤通り",
+    "description": "有馬銘菓・金泉焼の直営店。餡入りの焼き菓子をお土産に。",
+    "menus": [
+      {
+        "name": "金泉焼",
+        "price": null
+      }
+    ],
+    "hours": null,
+    "closed": "元旦のみ（観光協会掲載・臨時変更あり）",
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": null,
+    "lng": null,
+    "official": [
+      "https://kinsenyaki.net/"
+    ],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 店舗案内",
+        "url": "https://www.arima-onsen.com/pickup/38/1384/"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "photos": [],
+    "status": "掲載確認・当日営業未確認",
+    "notice": "支店ごとの営業時間・2026年末の特別営業は未確認。"
+  },
+  {
+    "id": "waraya-jinsen",
+    "name": "有馬温泉 わらや仁泉",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "温泉街北側",
+    "description": "有馬町1455-1の宿泊施設。2026年末の開業・利用条件は資料に食い違いがあるため、訪問前に公式情報をご確認ください。",
+    "menus": [],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": "兵庫県神戸市北区有馬町1455-1",
+    "lat": 34.7998435044,
+    "lng": 135.2503380689,
+    "coordinateSource": "https://www.openstreetmap.org/way/362703833",
+    "official": [
+      "https://waraya-jinsen.com/"
+    ],
+    "sources": [
+      {
+        "title": "わらや仁泉 公式サイト",
+        "url": "https://waraya-jinsen.com/"
+      },
+      {
+        "title": "神戸ジャーナル 開業日報道",
+        "url": "https://kobe-journal.com/archives/7497288597.html"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "status": "開業・年末営業未確認",
+    "notice": "位置は旧古泉閣と同住所の建物中心です。入口は未確認。"
+  },
+  {
+    "id": "osm-toilet-12495435576",
+    "name": "有馬温泉駅付近の公衆トイレ",
+    "categories": [
+      "交通・設備"
+    ],
+    "area": "有馬温泉駅周辺",
+    "description": "OpenStreetMapに記録されたトイレ。利用可否・設備・開放時間は現地でご確認ください。",
+    "menus": [],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.7993184,
+    "lng": 135.246212,
+    "coordinateSource": "https://www.openstreetmap.org/node/12495435576",
+    "official": [],
+    "sources": [
+      {
+        "title": "OpenStreetMap contributors",
+        "url": "https://www.openstreetmap.org/node/12495435576"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "status": "地図上の存在確認・開放未確認",
+    "notice": "利用可否・設備・開放時間は未確認。"
+  },
+  {
+    "id": "osm-toilet-1217785235",
+    "name": "温泉街の公衆トイレ",
+    "categories": [
+      "交通・設備"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "OpenStreetMapに記録されたトイレ。利用可否・設備・開放時間は現地でご確認ください。",
+    "menus": [],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.79895438333333,
+    "lng": 135.24742893333334,
+    "coordinateSource": "https://www.openstreetmap.org/way/1217785235",
+    "official": [],
+    "sources": [
+      {
+        "title": "OpenStreetMap contributors",
+        "url": "https://www.openstreetmap.org/way/1217785235"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "status": "地図上の存在確認・開放未確認",
+    "notice": "利用可否・設備・開放時間は未確認。"
+  },
+  {
+    "id": "yumotozaka",
+    "name": "湯本坂",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "金の湯・湯本坂",
+    "description": "昔ながらの店が並ぶ温泉街の坂道。店先を眺めながら歩く、街の中心的な散策路。",
+    "menus": [],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.79705264,
+    "lng": 135.24755498,
+    "coordinateSource": "https://www.openstreetmap.org/way/664005556",
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/maps/1706503555"
+      },
+      {
+        "title": "OpenStreetMap contributors",
+        "url": "https://www.openstreetmap.org/way/664005556"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "status": "掲載確認",
+    "notice": "位置は道路・橋の代表点です。"
+  },
+  {
+    "id": "nene-bashi",
+    "name": "ねね橋",
+    "categories": [
+      "観光・写真撮影スポット"
+    ],
+    "area": "太閤通り・有馬川",
+    "description": "温泉街の入口にある橋。有馬川と街並みを一緒に眺められる。",
+    "menus": [],
+    "hours": null,
+    "closed": null,
+    "yearEnd": {
+      "2026-12-29": null,
+      "2026-12-30": null
+    },
+    "takeout": null,
+    "dinein": null,
+    "address": null,
+    "lat": 34.7982698,
+    "lng": 135.24762835,
+    "coordinateSource": "https://www.openstreetmap.org/way/628726164",
+    "official": [],
+    "sources": [
+      {
+        "title": "有馬温泉観光協会 公式散策マップ",
+        "url": "https://stroly.com/maps/1706503555"
+      },
+      {
+        "title": "OpenStreetMap contributors",
+        "url": "https://www.openstreetmap.org/way/628726164"
+      }
+    ],
+    "checkedAt": "2026-11-28",
+    "status": "掲載確認",
+    "notice": "位置は道路・橋の代表点です。"
+  }
+]

@@ -1,0 +1,146 @@
+{
+  "hero": [
+    {
+      "id": "yumotozaka",
+      "subject": "湯本坂",
+      "path": "photos/yumotozaka.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arima_Onsen_Yumotozaka01s3200.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "changes": "長辺1280px以下に縮小・JPEG圧縮",
+      "title": "Arima Onsen Yumotozaka01s3200.jpg",
+      "src": "assets/yumotozaka.jpg",
+      "alt": "湯本坂",
+      "modified": true
+    }
+  ],
+  "arima-170122": [
+    {
+      "id": "tenjin",
+      "subject": "天神泉源",
+      "path": "photos/tenjin.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arima_Onsen_Tenjin_Sengen.JPG",
+      "author": "Bergmann",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "changes": "長辺1280px以下に縮小・JPEG圧縮",
+      "title": "Arima Onsen Tenjin Sengen.JPG",
+      "src": "assets/tenjin.jpg",
+      "alt": "天神泉源",
+      "modified": true
+    }
+  ],
+  "arima-170092": [
+    {
+      "id": "rinkeiji",
+      "subject": "林渓寺",
+      "path": "photos/rinkeiji.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Approach_of_Rinkeiji_Temple_in_Arima_Hot_Spring.jpg",
+      "author": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "長辺1280px以下に縮小・JPEG圧縮",
+      "title": "Approach of Rinkeiji Temple in Arima Hot Spring.jpg",
+      "src": "assets/rinkeiji.jpg",
+      "alt": "林渓寺",
+      "modified": true
+    }
+  ],
+  "arima-170121": [
+    {
+      "id": "gosho",
+      "subject": "御所泉源",
+      "path": "photos/gosho.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Gosho-sengen.jpg",
+      "author": "Suikotei",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "長辺1280px以下に縮小・JPEG圧縮",
+      "title": "Gosho-sengen.jpg",
+      "src": "assets/gosho.jpg",
+      "alt": "御所泉源",
+      "modified": true
+    }
+  ],
+  "arima-170113": [
+    {
+      "id": "kinnoyu",
+      "subject": "金の湯",
+      "path": "photos/kinnoyu.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Kin-no-yu_Arima_Onsen_2013.jpg",
+      "author": "Wpcpey",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "長辺1280px以下に縮小・JPEG圧縮",
+      "title": "Kin-no-yu Arima Onsen 2013.jpg",
+      "src": "assets/kinnoyu.jpg",
+      "alt": "金の湯",
+      "modified": true
+    }
+  ],
+  "yumotozaka": [
+    {
+      "src": "assets/yumotozaka.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arima_Onsen_Yumotozaka01s3200.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "alt": "湯本坂",
+      "modified": true
+    },
+    {
+      "src": "assets/yumotozaka-2.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Arima_Onsen_Yumotozaka02s3872.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "alt": "湯本坂",
+      "modified": true
+    }
+  ],
+  "nene-bashi": [
+    {
+      "src": "assets/nene.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nenehashi_Bridge_on_Rokkogawa_River_and_start_point_of_Arimagawa_River.jpg",
+      "author": "そらみみ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "alt": "ねね橋",
+      "modified": true
+    }
+  ],
+  "arima-170104": [
+    {
+      "src": "assets/mitsumori-senbei.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Mitsumori_Tansan_Senbei.jpg",
+      "author": "Shack",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "alt": "三津森本舖の元祖炭酸せんべい",
+      "modified": true
+    }
+  ],
+  "arima-170120": [
+    {
+      "src": "assets/onsenji.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Onsenji_Kobe01s3200.jpg",
+      "author": "663highland",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "alt": "有馬温泉の温泉寺",
+      "modified": true
+    }
+  ],
+  "arima-170095": [
+    {
+      "src": "assets/nenbutsuji.jpg",
+      "source": "https://commons.wikimedia.org/wiki/File:Nenbutsuji_Kobe01s3200.jpg",
+      "author": "663highland",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "alt": "有馬温泉の念仏寺",
+      "modified": true
+    }
+  ]
+}
