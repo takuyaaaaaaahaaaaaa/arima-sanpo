@@ -1110,7 +1110,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町1049",
     "lat": 34.79583118,
     "lng": 135.24935596,
-    "official": [],
+    "official": [
+      "https://arimakago.jp/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1119,6 +1121,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/363271305"
+      },
+      {
+        "title": "兵庫県が案内する有馬籠公式サイト",
+        "url": "https://arimakago.jp/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1465,7 +1471,9 @@
     "address": null,
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "http://arima-sennariya.jp/ec/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1474,6 +1482,10 @@
       {
         "title": "有馬温泉観光協会 店舗案内",
         "url": "https://www.arima-onsen.com/pickup/22/1429/"
+      },
+      {
+        "title": "有馬千成屋公式サイト（北店と同一ブランド）",
+        "url": "http://arima-sennariya.jp/ec/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1788,11 +1800,17 @@
     "address": null,
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://www.instagram.com/arima_tenjin_chaya/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=326516"
+      },
+      {
+        "title": "食べログ掲載の店舗公式Instagram",
+        "url": "https://www.instagram.com/arima_tenjin_chaya/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1825,7 +1843,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町868-4",
     "lat": 34.7965829,
     "lng": 135.2476873,
-    "official": [],
+    "official": [
+      "https://arima-nakasa.com/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -1834,6 +1854,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/3674496297"
+      },
+      {
+        "title": "店舗公式サイト",
+        "url": "https://arima-nakasa.com/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1867,11 +1891,17 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町 瑞宝園内",
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://www.instagram.com/arimakko_trip/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=326556"
+      },
+      {
+        "title": "観光協会掲載のもみじ茶屋Instagram",
+        "url": "https://www.instagram.com/arimakko_trip/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -1905,11 +1935,17 @@
     "address": "〒651-1401 神戸市北区有馬町1740-1 ザグランリゾート有馬 1Fレストラン内",
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://izakaya-kiryu.owst.jp/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=326557"
+      },
+      {
+        "title": "店舗公式サイト",
+        "url": "https://izakaya-kiryu.owst.jp/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -2150,12 +2186,16 @@
     "lat": null,
     "lng": null,
     "official": [
-      "https://princess-eyelash.info/"
+      "https://princess-eyelash.info/arima-infomation/"
     ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=326949"
+      },
+      {
+        "title": "店舗公式サイト 有馬温泉店",
+        "url": "https://princess-eyelash.info/arima-infomation/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -2311,7 +2351,9 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町839-2",
     "lat": 34.79646616363636,
     "lng": 135.24723572727274,
-    "official": [],
+    "official": [
+      "https://www.umemaru.net/kutsurogiya/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
@@ -2320,6 +2362,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362698880"
+      },
+      {
+        "title": "店舗公式サイト",
+        "url": "https://www.umemaru.net/kutsurogiya/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -3258,11 +3304,17 @@
     "address": "〒651-1401兵庫県神戸市北区有馬町1019 有馬の工房1F",
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://www.instagram.com/arima_gonsoba/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=328547"
+      },
+      {
+        "title": "店舗公式Instagram（Kiss PRESS掲載）",
+        "url": "https://www.instagram.com/arima_gonsoba/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -3371,25 +3423,37 @@
     "hours": "ランチ 『カレーうどん専門店』11:30 ~ 15:00 ※うどんが無くなり次第終了します ディナー 『ベルギービール・ダイニング』17:30~22:00(最終入店) 閉店 24:00",
     "closed": "水曜日",
     "yearEnd": {
-      "2026-12-29": null,
-      "2026-12-30": null
+      "2026-12-29": {
+        "status": "unknown",
+        "note": "夜営業は公式サイトで休業と案内。昼営業は未確認。"
+      },
+      "2026-12-30": {
+        "status": "unknown",
+        "note": "夜営業は公式サイトで休業と案内。昼営業は未確認。"
+      }
     },
     "takeout": null,
     "dinein": true,
     "address": "〒651-1401兵庫県神戸市北区有馬町869",
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://www.arima-misono.com/"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=328550"
+      },
+      {
+        "title": "店舗公式サイト",
+        "url": "https://www.arima-misono.com/"
       }
     ],
     "checkedAt": "2026-11-28",
     "photos": [],
     "status": "掲載確認・当日営業未確認",
-    "notice": "通常営業情報は観光協会掲載情報。臨時休業・2026年末の特別営業は未確認。"
+    "notice": "公式サイトでは2026年12月28日〜2027年1月8日の夜営業休業を案内。昼営業は未確認。"
   },
   {
     "id": "arima-328551",
@@ -3498,6 +3562,7 @@
     "lat": 34.7964654,
     "lng": 135.2486568,
     "official": [
+      "https://no18.alimali.jp/",
       "https://www.facebook.com/arimacid",
       "https://www.facebook.com/arimacider"
     ],
@@ -3509,6 +3574,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/node/3669939470"
+      },
+      {
+        "title": "有馬十八番公式サイト",
+        "url": "https://no18.alimali.jp/"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -3718,11 +3787,17 @@
     "address": "〒651-1401兵県神戸市北区有馬町1039-5",
     "lat": null,
     "lng": null,
-    "official": [],
+    "official": [
+      "https://store.montbell.jp/search/shopinfo/?shop_no=678505"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 公式散策マップ",
         "url": "https://stroly.com/viewer/1706503555?spot=170084"
+      },
+      {
+        "title": "モンベル公式店舗案内",
+        "url": "https://store.montbell.jp/search/shopinfo/?shop_no=678505"
       }
     ],
     "checkedAt": "2026-11-28",
@@ -4469,9 +4544,7 @@
     "address": "〒651-1401 神戸市北区有馬町1305-2",
     "lat": 34.799351449999996,
     "lng": 135.24515908333333,
-    "official": [
-      "https://retty.me/area/PRE28/ARE10"
-    ],
+    "official": [],
     "sources": [
       {
         "title": "有馬温泉観光協会 店舗案内",
@@ -4716,7 +4789,9 @@
     "address": "〒651-1401 兵庫県神戸市北区有馬町1251-1",
     "lat": 34.80178128,
     "lng": 135.24785776,
-    "official": [],
+    "official": [
+      "https://yunosatohonpo.com/guide/index.html"
+    ],
     "sources": [
       {
         "title": "有馬温泉観光協会 店舗案内",
@@ -4725,6 +4800,10 @@
       {
         "title": "OpenStreetMap contributors（ODbL）位置情報",
         "url": "https://www.openstreetmap.org/way/362899937"
+      },
+      {
+        "title": "店舗公式サイト",
+        "url": "https://yunosatohonpo.com/guide/index.html"
       }
     ],
     "checkedAt": "2026-11-28",

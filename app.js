@@ -27,7 +27,14 @@ function photo(s){return photos[s.id]?.[0];}
 function visual(s,large=false){const p=photo(s);return p?`<img src="${escape(p.src)}" alt="${escape(p.alt||s.name)}" ${large?'fetchpriority="high"':'loading="lazy"'} width="640" height="480">`:`<div class="placeholder"><span class="glyph">${escape(glyph(s))}</span><small>写真準備中</small></div>`;}
 function glyph(s){if(s.categories.includes('泉源'))return '泉';if(s.categories.includes('神社・寺院'))return '祈';if(s.categories.includes('温泉・足湯'))return '湯';if(s.categories.some(c=>/菓子|アイス/.test(c)))return '甘';if(s.categories.includes('カフェ・喫茶店'))return '茶';if(s.categories.some(c=>/食|肉|ランチ|ドリンク/.test(c)))return '味';return '歩';}
 function heart(s){const yes=favorites.has(s.id);return `<button class="heart" data-fav="${s.id}" data-name="${escape(s.name)}" aria-label="${escape(s.name)}をお気に入り${yes?'から解除':'に登録'}" aria-pressed="${yes}">${yes?'♥':'♡'}</button>`;}
-function spotPage(s){const official=s.official[0];if(official)return {url:typeof official==='string'?official:official.url,label:'公式ページを見る'};const listing=s.sources.find(u=>u.url?.startsWith('https://www.arima-onsen.com/pickup/'));return listing?{url:listing.url,label:'観光協会の紹介を見る'}:null;}
+function spotPage(s){
+  const official=s.official[0];
+  if(official)return {url:official,label:official.includes('instagram.com/')?'公式Instagramを見る':'公式ページを見る'};
+  const listing=s.sources.find(u=>u.url?.startsWith('https://www.arima-onsen.com/pickup/'));
+  if(listing)return {url:listing.url,label:'観光協会の紹介を見る'};
+  const mapListing=s.sources.find(u=>u.url?.startsWith('https://stroly.com/viewer/'));
+  return mapListing?{url:mapListing.url,label:'観光協会の散策マップを見る'}:null;
+}
 function card(s){const page=spotPage(s);return `<article class="card"><a class="card-open" href="#spot/${s.id}"><div class="card-image">${visual(s)}</div><div class="meta">${escape(s.area)} / ${escape(s.categories[0])}</div><h3>${escape(s.name)}</h3><p class="menu">${escape(s.menus[0]?.name||'街歩きの寄り道に')}</p><div class="price">${s.menus.length?yen(price(s)):''}</div><div class="notice">${s.status==='休業中'?'休業中（掲載元情報）':s.yearEnd['2026-12-29']||s.yearEnd['2026-12-30']?'年末営業は詳細へ':'年末営業 未確認'}</div></a>${page?`<a class="official-photo" href="${escape(page.url)}" target="_blank" rel="noopener">${page.label}</a>`:''}${heart(s)}</article>`;}
 function grid(list,cls=''){return list.length?`<div class="grid ${cls}">${list.map(card).join('')}</div>`:`<div class="empty"><h2>条件に合うスポットがありません</h2><p>カテゴリや絞り込みを変えて探してみましょう。<br>未確認の情報は「営業中」「営業予定」に含めていません。</p><button data-action="reset">絞り込みを解除</button></div>`;}
 function nav(){ $('.tabs').innerHTML=Object.entries({home:'ホーム',search:'さがす',map:'マップ',favorites:'お気に入り'}).map(([key,label])=>`<a href="#${key}" class="${state.page===key?'active':''}" ${state.page===key?'aria-current="page"':''}><svg viewBox="0 0 24 24" aria-hidden="true">${icons[key]}</svg>${label}</a>`).join('');}
